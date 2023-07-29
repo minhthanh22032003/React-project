@@ -87,37 +87,7 @@
       "id": 6
     },
     {
-      "email": "chuquyson7@gmail.com",
-      "password": "12345",
-      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
-      "phone": "0363938085",
-      "address": "167 phùng khắc khoan, sơn tây",
-      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
-      "fieldOfExpertise": 2,
-      "RoleId": 1,
-      "BanStatus": 0,
-      "Name": "chu quy son",
-      "OnlineCv": "http://sample.net/donkey#sea",
-      "Experience": "4",
-      "id": 7
-    },
-    {
-      "email": "chuquyson8@gmail.com",
-      "password": "12345",
-      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
-      "phone": "0363938085",
-      "address": "167 phùng khắc khoan, sơn tây",
-      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
-      "fieldOfExpertise": 2,
-      "RoleId": 1,
-      "BanStatus": 0,
-      "Name": "chu quy son",
-      "OnlineCv": "http://sample.net/donkey#sea",
-      "Experience": "3",
-      "id": 8
-    },
-    {
-      "email": "chuquyson9@gmail.com",
+      "email": "minhthanh3@gmail.com",
       "password": "12345",
       "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
       "phone": "0363938085",
@@ -132,7 +102,7 @@
       "id": 9
     },
     {
-      "email": "chuquyson10@gmail.com",
+      "email": "minhthanh4@gmail.com",
       "password": "12345",
       "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
       "phone": "0363938085",
